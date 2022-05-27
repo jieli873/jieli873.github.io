@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Jie Li's homepage!
+
+I am a senior researcher with The Theory Lab of Huawei at Hong Kong Researcher Center.
 
 You can use the [editor on GitHub](https://github.com/jieli873/jieli873.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
