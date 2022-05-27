@@ -4,15 +4,19 @@ I am a senior researcher with The Theory Lab of Huawei at Hong Kong Research Cen
 
 ### **Professional Experience**
 
--Senior  Researcher, Mar. 2021 -- Now, The Theory Lab, Huawei Tech. Inverstment Co., Ltd., Hong Kong SAR, China.
+-Senior  Researcher, March 2021 -- Present, The Theory Lab, Huawei Tech. Inverstment Co., Ltd., Hong Kong SAR, China.
 
--Postdoctoral  Researcher, Mar. 2019 -- Feb. 2021, Dept. of Mathematics and Systems Analysis,  Aalto University,  Espoo, Finland.
+-Postdoctoral  Researcher, March 2019 -- February 2021, Dept. of Mathematics and Systems Analysis,  Aalto University,  Espoo, Finland.
 
--Postdoctoral  Researcher, June 2017 -- Mar. 2019,  Dept. of Mathematics, Hubei University,  Wuhan, Hubei, China.
+-Postdoctoral  Researcher, June 2017 -- March 2019,  Dept. of Mathematics, Hubei University,  Wuhan, Hubei, China.
 
--Visiting  Scholar, Jan. 2019 -- Feb. 2019, Dept. of Electrical and Computer Engineering, University of Maryland,  College Park, MD, USA.
+-Visiting  Scholar, January 2019 -- February 2019, Dept. of Electrical and Computer Engineering, University of Maryland,  College Park, MD, USA.
 
--Visiting  Scholar, Mar. 2018 -- May 2018, Dept. of Mathematics, Hong Kong University of Science and Technology,  Hong Kong, China.
+-Visiting  Scholar, March 2018 -- May 2018, Dept. of Mathematics, Hong Kong University of Science and Technology,  Hong Kong, China.
+
+### **Education Bckground**
+
+
 
 You can use the [editor on GitHub](https://github.com/jieli873/jieli873.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
