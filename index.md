@@ -1,6 +1,6 @@
 ## **Welcome to Jie Li's homepage!**
 
-I am a senior researcher with The Theory Lab of Huawei at Hong Kong Research Center.
+I am a senior researcher with The Theory Lab of Huawei at Hong Kong Research Center. My research interests include coding for distributed storage, private information retrieval, distributed coded computing, and sequence design.
 
 ### **Professional Experience**
 
